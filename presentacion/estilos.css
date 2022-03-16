@@ -1,0 +1,23 @@
+nav {
+  background-color: rgb(106, 106, 160);
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+/* nav li {
+  display: inline-block;
+  font-size: 18px;
+  padding: 15px;
+} */
+table tr {
+  text-align: center;
+  display: block;
+}
+
+img {
+  width: 200px;
+  display: block;
+  margin: auto;
+}
