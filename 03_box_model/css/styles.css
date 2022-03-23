@@ -1,0 +1,33 @@
+body {
+  height: 500px;
+  margin: 0;
+  padding: 0;
+  background-color: cadetblue;
+}
+.principal,
+header {
+  background-color: #bbdefb;
+  width: 100%;
+  height: 100px;
+}
+
+#piePagina {
+  background-color: #f48fb1;
+  height: 100px;
+  width: 100px;
+}
+
+.principal {
+  background-color: aqua;
+}
+
+.principal,
+#piePagina,
+header {
+  border: 1px solid black;
+  margin: 10px;
+}
+p {
+  text-align: justify;
+  margin: 0;
+}

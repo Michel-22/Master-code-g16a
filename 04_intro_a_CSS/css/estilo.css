@@ -1,0 +1,22 @@
+body {
+  background-color: brown;
+}
+
+header {
+  background-color: cadetblue;
+}
+
+.blanco {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 26px;
+}
+
+section {
+  background-color: aqua;
+}
+
+div {
+  border: solid 5px #cc0000;
+  border-top-color: black;
+  /* border: solid 5px #cc0000; */
+}
